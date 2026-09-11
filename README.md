@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Research-Administration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Research-Administration?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Research-Administration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Research-Administration?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Research-Administration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Research-Administration?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Research-Administration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -33,7 +33,7 @@
   - [📊 SaaS Platforms Comparison Table](#-saas-platforms-comparison-table)
   - [🏢 In-Depth SaaS Profiles](#-in-depth-saas-profiles)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [⭐ Open-Source Ranked by GitHub Stars](#-open-source-ranked-by-github-stars)
+  - [⭐ Open-Source Ranked by GitHub_Stars](#-open-source-ranked-by-github-stars)
   - [💻 Open-Source Repository Details](#-open-source-repository-details)
 - [🧩 Research Administration Functional Matrix](#-research-administration-functional-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -141,79 +141,79 @@ Below is the structured analysis of top commercial research administration softw
 
 While enterprise eRA suites are predominantly commercial due to stringent federal submission schemas and audit requirements, a robust open-source ecosystem powers institutional research data repositories, grant discovery, and researcher networking.
 
-### ⭐ Open-Source Ranked by GitHub Stars
+### ⭐ Open-Source Ranked by GitHub_Stars
 
 The repositories below are **strictly ranked in descending order by GitHub star counts**. Each badge reflects live repository stars and links directly to the project's stargazers page:
 
-| # | Repository | Category & Domain | GitHub Stars Badge (Live Link) | License | Primary Stack |
+| # | Repository | Category & Domain | GitHub_Stars_Badge (Live Link) | License | Primary Stack |
 | :-: | :--- | :--- | :---: | :---: | :--- |
-| **1** | **[DSpace/DSpace](https://github.com/DSpace/DSpace)** | Institutional Research Repository Platform | [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers) | BSD-3-Clause | Java, Angular |
-| **2** | **[IQSS/dataverse](https://github.com/IQSS/dataverse)** | Research Data Management & Data Sharing | [![GitHub stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers) | Apache-2.0 | Java, Jakarta EE, React |
-| **3** | **[pkp/ojs](https://github.com/pkp/ojs)** | Scholarly Publishing & Peer Review Admin | [![GitHub stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers) | GPL-2.0 | PHP, Vue.js |
-| **4** | **[usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)** | Grants Identification & Management Tool | [![GitHub stars](https://img.shields.io/github/stars/usdigitalresponse/usdr-gost?style=social&color=white)](https://github.com/usdigitalresponse/usdr-gost/stargazers) | MIT | Python, React, PostgreSQL |
-| **5** | **[vivo-project/VIVO](https://github.com/vivo-project/VIVO)** | Researcher Profile & Networking System | [![GitHub stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers) | BSD-3-Clause | Java, RDF/SPARQL |
-| **6** | **[samvera/hyrax](https://github.com/samvera/hyrax)** | Digital Research Asset Repository Framework | [![GitHub stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers) | Apache-2.0 | Ruby on Rails, Solr |
-| **7** | **[HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov)** | Modern Federal Grant Discovery & Application | [![GitHub stars](https://img.shields.io/github/stars/HHS/simpler-grants-gov?style=social&color=white)](https://github.com/HHS/simpler-grants-gov/stargazers) | CC0-1.0 | TypeScript, Next.js |
-| **8** | **[inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)** | Turnkey Research Data Management (CERN/Zenodo) | [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers) | MIT | Python, Flask, React |
-| **9** | **[kuali/kc](https://github.com/kuali/kc)** | Open Higher-Ed eRA Suite (Kuali Coeus Core) | [![GitHub stars](https://img.shields.io/github/stars/kuali/kc?style=social&color=white)](https://github.com/kuali/kc/stargazers) | AGPL-3.0 | Java, Spring, Oracle/MySQL |
-| **10** | **[HHS/Head-Start-TTADP](https://github.com/HHS/Head-Start-TTADP)** | Federal Grant Administration & TA Tracking | [![GitHub stars](https://img.shields.io/github/stars/HHS/Head-Start-TTADP?style=social&color=white)](https://github.com/HHS/Head-Start-TTADP/stargazers) | CC0-1.0 | JavaScript, Node.js, React |
-| **11** | **[eLifePathways/Kotahi](https://github.com/eLifePathways/Kotahi)** | Scholarly Review & Evaluation Management | [![GitHub stars](https://img.shields.io/github/stars/eLifePathways/Kotahi?style=social&color=white)](https://github.com/eLifePathways/Kotahi/stargazers) | MIT | JavaScript, Node.js, React |
-| **12** | **[HHS/OPRE-OPS](https://github.com/HHS/OPRE-OPS)** | Research Operations & Federal Project Tracker | [![GitHub stars](https://img.shields.io/github/stars/HHS/OPRE-OPS?style=social&color=white)](https://github.com/HHS/OPRE-OPS/stargazers) | CC0-1.0 | JavaScript, React |
-| **13** | **[okeefedaniel/harbor](https://github.com/okeefedaniel/harbor)** | Open-Source Grants Lifecycle Management Suite | [![GitHub stars](https://img.shields.io/github/stars/okeefedaniel/harbor?style=social&color=white)](https://github.com/okeefedaniel/harbor/stargazers) | MIT | PHP, Laravel |
+| **1** | **[DSpace/DSpace](https://github.com/DSpace/DSpace)** | Institutional Research Repository Platform | [![GitHub_Stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers) | BSD-3-Clause | Java, Angular |
+| **2** | **[IQSS/dataverse](https://github.com/IQSS/dataverse)** | Research Data Management & Data Sharing | [![GitHub_Stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers) | Apache-2.0 | Java, Jakarta EE, React |
+| **3** | **[pkp/ojs](https://github.com/pkp/ojs)** | Scholarly Publishing & Peer Review Admin | [![GitHub_Stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers) | GPL-2.0 | PHP, Vue.js |
+| **4** | **[usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)** | Grants Identification & Management Tool | [![GitHub_Stars](https://img.shields.io/github/stars/usdigitalresponse/usdr-gost?style=social&color=white)](https://github.com/usdigitalresponse/usdr-gost/stargazers) | MIT | Python, React, PostgreSQL |
+| **5** | **[vivo-project/VIVO](https://github.com/vivo-project/VIVO)** | Researcher Profile & Networking System | [![GitHub_Stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers) | BSD-3-Clause | Java, RDF/SPARQL |
+| **6** | **[samvera/hyrax](https://github.com/samvera/hyrax)** | Digital Research Asset Repository Framework | [![GitHub_Stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers) | Apache-2.0 | Ruby on Rails, Solr |
+| **7** | **[HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov)** | Modern Federal Grant Discovery & Application | [![GitHub_Stars](https://img.shields.io/github/stars/HHS/simpler-grants-gov?style=social&color=white)](https://github.com/HHS/simpler-grants-gov/stargazers) | CC0-1.0 | TypeScript, Next.js |
+| **8** | **[inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)** | Turnkey Research Data Management (CERN/Zenodo) | [![GitHub_Stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers) | MIT | Python, Flask, React |
+| **9** | **[kuali/kc](https://github.com/kuali/kc)** | Open Higher-Ed eRA Suite (Kuali Coeus Core) | [![GitHub_Stars](https://img.shields.io/github/stars/kuali/kc?style=social&color=white)](https://github.com/kuali/kc/stargazers) | AGPL-3.0 | Java, Spring, Oracle/MySQL |
+| **10** | **[HHS/Head-Start-TTADP](https://github.com/HHS/Head-Start-TTADP)** | Federal Grant Administration & TA Tracking | [![GitHub_Stars](https://img.shields.io/github/stars/HHS/Head-Start-TTADP?style=social&color=white)](https://github.com/HHS/Head-Start-TTADP/stargazers) | CC0-1.0 | JavaScript, Node.js, React |
+| **11** | **[eLifePathways/Kotahi](https://github.com/eLifePathways/Kotahi)** | Scholarly Review & Evaluation Management | [![GitHub_Stars](https://img.shields.io/github/stars/eLifePathways/Kotahi?style=social&color=white)](https://github.com/eLifePathways/Kotahi/stargazers) | MIT | JavaScript, Node.js, React |
+| **12** | **[HHS/OPRE-OPS](https://github.com/HHS/OPRE-OPS)** | Research Operations & Federal Project Tracker | [![GitHub_Stars](https://img.shields.io/github/stars/HHS/OPRE-OPS?style=social&color=white)](https://github.com/HHS/OPRE-OPS/stargazers) | CC0-1.0 | JavaScript, React |
+| **13** | **[okeefedaniel/harbor](https://github.com/okeefedaniel/harbor)** | Open-Source Grants Lifecycle Management Suite | [![GitHub_Stars](https://img.shields.io/github/stars/okeefedaniel/harbor?style=social&color=white)](https://github.com/okeefedaniel/harbor/stargazers) | MIT | PHP, Laravel |
 
 ---
 
 ### 💻 Open-Source Repository Details
 
-#### 1. 🏛️ [DSpace/DSpace](https://github.com/DSpace/DSpace) [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)
+#### 1. 🏛️ [DSpace/DSpace](https://github.com/DSpace/DSpace) [![GitHub_Stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)
 * **Description**: The world’s most widely deployed open-source institutional repository platform. Preserves and distributes digital research output (dissertations, papers, datasets) with Dublin Core metadata and OAI-PMH endpoints.
 * **Use Case in Research Admin**: Central clearinghouse for Open Access compliance reporting and institutional scholarship preservation.
 
-#### 2. 📊 [IQSS/dataverse](https://github.com/IQSS/dataverse) [![GitHub stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers)
+#### 2. 📊 [IQSS/dataverse](https://github.com/IQSS/dataverse) [![GitHub_Stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers)
 * **Description**: Developed at Harvard’s Institute for Quantitative Social Science (IQSS). Provides a dedicated platform for archiving, publishing, citing, and exploring research datasets with DOI integration.
 * **Use Case in Research Admin**: Satisfies federal funding agency Data Management and Sharing (DMS) policy mandates (e.g., NIH DMS policy).
 
-#### 3. 📰 [pkp/ojs](https://github.com/pkp/ojs) [![GitHub stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers)
+#### 3. 📰 [pkp/ojs](https://github.com/pkp/ojs) [![GitHub_Stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers)
 * **Description**: Open Journal Systems by the Public Knowledge Project. Full editorial and peer-review workflow engine used by over 30,000 journals worldwide.
 * **Use Case in Research Admin**: Manages institutional journal presses and student/faculty peer-reviewed publications.
 
-#### 4. 🎯 [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost) [![GitHub stars](https://img.shields.io/github/stars/usdigitalresponse/usdr-gost?style=social&color=white)](https://github.com/usdigitalresponse/usdr-gost/stargazers)
+#### 4. 🎯 [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost) [![GitHub_Stars](https://img.shields.io/github/stars/usdigitalresponse/usdr-gost?style=social&color=white)](https://github.com/usdigitalresponse/usdr-gost/stargazers)
 * **Description**: The Grants Opportunity Search Tool (GOST) built by U.S. Digital Response. Automates federal grant scraping, team assignment, eligibility review, and collaborative decision pipelines.
 * **Use Case in Research Admin**: Research development teams monitoring and distributing federal grant opportunities across university departments.
 
-#### 5. 🌐 [vivo-project/VIVO](https://github.com/vivo-project/VIVO) [![GitHub stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers)
+#### 5. 🌐 [vivo-project/VIVO](https://github.com/vivo-project/VIVO) [![GitHub_Stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers)
 * **Description**: Semantic Web application enabling national and cross-institutional discovery of researchers, grants, facilities, and academic scholarship.
 * **Use Case in Research Admin**: Open-source alternative to commercial profiling platforms; facilitates cross-disciplinary research team assembly.
 
-#### 6. 🗄️ [samvera/hyrax](https://github.com/samvera/hyrax) [![GitHub stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers)
+#### 6. 🗄️ [samvera/hyrax](https://github.com/samvera/hyrax) [![GitHub_Stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers)
 * **Description**: Front-end repository engine built on Ruby on Rails and the Samvera community stack (Fedora/Solr). Supports complex descriptive metadata schemas.
 * **Use Case in Research Admin**: Institutional repository management for specialized clinical, scientific, and cultural research archives.
 
-#### 7. 🇺🇸 [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) [![GitHub stars](https://img.shields.io/github/stars/HHS/simpler-grants-gov?style=social&color=white)](https://github.com/HHS/simpler-grants-gov/stargazers)
+#### 7. 🇺🇸 [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) [![GitHub_Stars](https://img.shields.io/github/stars/HHS/simpler-grants-gov?style=social&color=white)](https://github.com/HHS/simpler-grants-gov/stargazers)
 * **Description**: The U.S. Department of Health and Human Services modern open initiative to redesign and simplify federal grant discovery and application workflows.
 * **Use Case in Research Admin**: Insight into upcoming federal grant data standards, API contracts, and user-centered grant forms.
 
-#### 8. 🔬 [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm) [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers)
+#### 8. 🔬 [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm) [![GitHub_Stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers)
 * **Description**: CERN-backed research data management repository platform that powers Zenodo. Highly scalable, FAIR-compliant architecture designed for multi-petabyte institutional deployments.
 * **Use Case in Research Admin**: Institutional research output and raw research dataset archiving with automated DOI generation through DataCite.
 
-#### 9. ⚙️ [kuali/kc](https://github.com/kuali/kc) [![GitHub stars](https://img.shields.io/github/stars/kuali/kc?style=social&color=white)](https://github.com/kuali/kc/stargazers)
+#### 9. ⚙️ [kuali/kc](https://github.com/kuali/kc) [![GitHub_Stars](https://img.shields.io/github/stars/kuali/kc?style=social&color=white)](https://github.com/kuali/kc/stargazers)
 * **Description**: Kuali Coeus (KC) open-source core codebase, historically developed in partnership with MIT and university consortia for end-to-end research administration.
 * **Use Case in Research Admin**: The definitive open-source reference implementation for institutional pre-award, post-award, IRB, and IACUC data schemas.
 
-#### 10. 📋 [HHS/Head-Start-TTADP](https://github.com/HHS/Head-Start-TTADP) [![GitHub stars](https://img.shields.io/github/stars/HHS/Head-Start-TTADP?style=social&color=white)](https://github.com/HHS/Head-Start-TTADP/stargazers)
+#### 10. 📋 [HHS/Head-Start-TTADP](https://github.com/HHS/Head-Start-TTADP) [![GitHub_Stars](https://img.shields.io/github/stars/HHS/Head-Start-TTADP?style=social&color=white)](https://github.com/HHS/Head-Start-TTADP/stargazers)
 * **Description**: System for managing technical assistance, reporting, and activity tracking across federal grant recipient cohorts.
 * **Use Case in Research Admin**: Template for post-award training, compliance monitoring, and milestone validation.
 
-#### 11. 📝 [eLifePathways/Kotahi](https://github.com/eLifePathways/Kotahi) [![GitHub stars](https://img.shields.io/github/stars/eLifePathways/Kotahi?style=social&color=white)](https://github.com/eLifePathways/Kotahi/stargazers)
+#### 11. 📝 [eLifePathways/Kotahi](https://github.com/eLifePathways/Kotahi) [![GitHub_Stars](https://img.shields.io/github/stars/eLifePathways/Kotahi?style=social&color=white)](https://github.com/eLifePathways/Kotahi/stargazers)
 * **Description**: Modern, open-source submission, peer review, and journal evaluation platform built by the Coko Foundation and supported by eLife.
 * **Use Case in Research Admin**: Peer review management for university seed grant competitions and internal awards.
 
-#### 12. 📊 [HHS/OPRE-OPS](https://github.com/HHS/OPRE-OPS) [![GitHub stars](https://img.shields.io/github/stars/HHS/OPRE-OPS?style=social&color=white)](https://github.com/HHS/OPRE-OPS/stargazers)
+#### 12. 📊 [HHS/OPRE-OPS](https://github.com/HHS/OPRE-OPS) [![GitHub_Stars](https://img.shields.io/github/stars/HHS/OPRE-OPS?style=social&color=white)](https://github.com/HHS/OPRE-OPS/stargazers)
 * **Description**: Research project tracking system from the Administration for Children and Families (ACF) Office of Planning, Research, and Evaluation.
 * **Use Case in Research Admin**: Project milestone, budget allocation, and contractor/grantee task management.
 
-#### 13. ⚓ [okeefedaniel/harbor](https://github.com/okeefedaniel/harbor) [![GitHub stars](https://img.shields.io/github/stars/okeefedaniel/harbor?style=social&color=white)](https://github.com/okeefedaniel/harbor/stargazers)
+#### 13. ⚓ [okeefedaniel/harbor](https://github.com/okeefedaniel/harbor) [![GitHub_Stars](https://img.shields.io/github/stars/okeefedaniel/harbor?style=social&color=white)](https://github.com/okeefedaniel/harbor/stargazers)
 * **Description**: Lightweight open-source enterprise grants management suite covering opportunity postings, applicant submissions, committee reviews, award letters, and financial closeouts.
 * **Use Case in Research Admin**: Ideal blueprint for small research foundations, municipal grantmakers, or departmental internal pilot funding competitions.
 
@@ -242,7 +242,7 @@ Contributions are warmly welcomed! We invite sponsored programs administrators, 
 3. 📝 **Add/Update Details**:
    - Provide the official URL and clear functional description.
    - For **SaaS platforms**, ensure starting tier prices and exact free trial durations/limits are strictly specified.
-   - For **Open-Source projects**, supply the GitHub repo format (`owner/repo`) so live shields.io star badges and stargazer links remain functional.
+   - For **Open-Source projects**, supply the GitHub repo format (`owner/repo`) so live shields.io Stars_Badges and stargazer links remain functional.
 4. ✅ **Ensure Formatting Consistency**: Maintain alphabetical or star/size ranked ordering.
 5. 🚀 **Submit a Pull Request**: Explain the rationale and cite authoritative documentation.
 
